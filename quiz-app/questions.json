@@ -1,0 +1,128 @@
+[
+    {
+        "question": "Which is largest animal in the world?",
+        "answers": [
+            {
+                "text": "Shark",
+                "correct": false
+            },
+            {
+                "text": "Blue Whale",
+                "correct": true
+            },
+            {
+                "text": "Elephant",
+                "correct": false
+            },
+            {
+                "text": "Giraffe",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the daughter of pratap?",
+        "answers": [
+            {
+                "text": "sijal",
+                "correct": false
+            },
+            {
+                "text": "kajal",
+                "correct": true
+            },
+            {
+                "text": "tuin",
+                "correct": false
+            },
+            {
+                "text": "titli",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the daughter of kathi?",
+        "answers": [
+            {
+                "text": "tuin",
+                "correct": true
+            },
+            {
+                "text": "kajal",
+                "correct": true
+            },
+            {
+                "text": "titli",
+                "correct": false
+            },
+            {
+                "text": "jali",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Where is maa basundhari temple located?",
+        "answers": [
+            {
+                "text": "sankhapur",
+                "correct": true
+            },
+            {
+                "text": "khalagaon",
+                "correct": false
+            },
+            {
+                "text": "baragounia",
+                "correct": false
+            },
+            {
+                "text": "khalagaon",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which is largest animal in the world?",
+        "answers": [
+            {
+                "text": "Shark",
+                "correct": false
+            },
+            {
+                "text": "Blue Whale",
+                "correct": true
+            },
+            {
+                "text": "Elephant",
+                "correct": false
+            },
+            {
+                "text": "Giraffe",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Who is my bestfriend?",
+        "answers": [
+            {
+                "text": "samir",
+                "correct": true
+            },
+            {
+                "text": "siba",
+                "correct": true
+            },
+            {
+                "text": "kajal",
+                "correct": false
+            },
+            {
+                "text": "raja",
+                "correct": false
+            }
+        ]
+    }
+]
