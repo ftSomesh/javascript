@@ -1,132 +1,59 @@
 let questions = [
     {
-        "question": "Which is largest animal in the world?",
+        "question": "Which planet is known as the Red Planet?",
         "answers": [
-            {
-                "text": "Shark",
-                "correct": false
-            },
-            {
-                "text": "Blue Whale",
-                "correct": true
-            },
-            {
-                "text": "Elephant",
-                "correct": false
-            },
-            {
-                "text": "Giraffe",
-                "correct": false
-            }
+            { "text": "Venus", "correct": false },
+            { "text": "Mars", "correct": true },
+            { "text": "Jupiter", "correct": false },
+            { "text": "Mercury", "correct": false }
         ]
     },
     {
-        "question": "What is the name of the daughter of pratap?",
+        "question": "What is the capital city of Japan?",
         "answers": [
-            {
-                "text": "sijal",
-                "correct": false
-            },
-            {
-                "text": "kajal",
-                "correct": true
-            },
-            {
-                "text": "tuin",
-                "correct": false
-            },
-            {
-                "text": "titli",
-                "correct": false
-            }
+            { "text": "Seoul", "correct": false },
+            { "text": "Beijing", "correct": false },
+            { "text": "Tokyo", "correct": true },
+            { "text": "Bangkok", "correct": false }
         ]
     },
     {
-        "question": "What is the name of the daughter of kathi?",
+        "question": "Which gas do plants absorb during photosynthesis?",
         "answers": [
-            {
-                "text": "tuin",
-                "correct": true
-            },
-            {
-                "text": "kajal",
-                "correct": false
-            },
-            {
-                "text": "titli",
-                "correct": false
-            },
-            {
-                "text": "jali",
-                "correct": false
-            }
+            { "text": "Oxygen", "correct": false },
+            { "text": "Nitrogen", "correct": false },
+            { "text": "Carbon Dioxide", "correct": true },
+            { "text": "Hydrogen", "correct": false }
         ]
     },
     {
-        "question": "Where is maa basundhari temple located?",
+        "question": "Who wrote the famous play 'Romeo and Juliet'?",
         "answers": [
-            {
-                "text": "sankhapur",
-                "correct": true
-            },
-            {
-                "text": "khalagaon",
-                "correct": false
-            },
-            {
-                "text": "baragounia",
-                "correct": false
-            },
-            {
-                "text": "khalagaon",
-                "correct": false
-            }
+            { "text": "William Shakespeare", "correct": true },
+            { "text": "Charles Dickens", "correct": false },
+            { "text": "Mark Twain", "correct": false },
+            { "text": "Jane Austen", "correct": false }
         ]
     },
     {
-        "question": "Which is largest animal in the world?",
+        "question": "Which is the smallest continent in the world?",
         "answers": [
-            {
-                "text": "Shark",
-                "correct": false
-            },
-            {
-                "text": "Blue Whale",
-                "correct": true
-            },
-            {
-                "text": "Elephant",
-                "correct": false
-            },
-            {
-                "text": "Giraffe",
-                "correct": false
-            }
+            { "text": "Europe", "correct": false },
+            { "text": "Australia", "correct": true },
+            { "text": "Antarctica", "correct": false },
+            { "text": "South America", "correct": false }
         ]
     },
     {
-        "question": "Who is my bestfriend?",
+        "question": "What is the chemical symbol for water?",
         "answers": [
-            {
-                "text": "samir",
-                "correct": true
-            },
-            {
-                "text": "siba",
-                "correct": false
-            },
-            {
-                "text": "kajal",
-                "correct": false
-            },
-            {
-                "text": "raja",
-                "correct": false
-            }
+            { "text": "O2", "correct": false },
+            { "text": "H2O", "correct": true },
+            { "text": "CO2", "correct": false },
+            { "text": "NaCl", "correct": false }
         ]
     }
-]
-
+];
 const questionEl = document.querySelector(".question")
 const answerContainer = document.querySelector("#answer-buttons")
 const nextBtn = document.querySelector("#next-btn")
