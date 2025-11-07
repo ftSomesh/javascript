@@ -1,4 +1,4 @@
-# 03/30 - Weather App
+# 03/30 - Quiz App
 
 This is a solution to the [QUIZ APP](./index.html).
 This is the third project of 30day project challenge.

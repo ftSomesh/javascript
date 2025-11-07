@@ -1,4 +1,4 @@
-# 04/30 - Weather App
+# 04/30 - Random Password Generator
 
 This is a solution to the [QUIZ APP](./index.html).
 This is the fourth project of 30day project challenge.
